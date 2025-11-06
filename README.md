@@ -1,1 +1,1 @@
-project one from fronted mentor
+qr-code-1-scanner
